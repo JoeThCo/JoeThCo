@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeThCo
 - 👀 I’m interested in Game Dev in C# and C++.
-- 🌱 I’m currently learning UE5.
+- 🌱 I’m currently learning UE5, more about Unity.
 - 💞️ I’m looking to collaborate on anything Game Dev related.
 - 📫 How to reach me josephthco@gmail.com
 
