@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @JoeThCo
-- 👀 I’m interested in Game Dev and iOS Dev.
-- 🌱 I’m currently learning iOS Dev.
-- 💞️ I’m looking to collaborate on anything Game Dev related.
 - 📫 How to reach me josephthco@gmail.com
 
 <!---
