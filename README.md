@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Joe C (@JoeThCo) (He/Him)
+- 👋 Hello! I'm Joe Colley (@JoeThCo) (He/Him)
 - 📫 Reach me @ josephthco@gmail.com
 - 💼 Software Devolper @ ICONICS 1/15 - Current
 
