@@ -1,6 +1,6 @@
 - 👋 Hello! I'm Joe C (@JoeThCo) (He/Him)
 - 📫 Reach me @ josephthco@gmail.com
-- 💼 Future Software Devolper @ ICONICS (Starting 1/15!)
+- 💼 Future Software Devolper @ ICONICS 1/15 - Current
 
 - 🏫 Becker College 🪦 (2018 - 2021) and WPI (2021 - 2024)
 - 📃 Bachelor's Degree in Computer Science (After May 2024)
