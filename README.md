@@ -1,10 +1,10 @@
 - 👋 Hello! I'm Joe Colley (@JoeThCo) (He/Him)
 - 📫 Reach me @ josephthco@gmail.com
-- 💼 Software Devolper @ ICONICS 1/15 - Current
+- 💼 Software Devolper @ ICONICS Jan 2024 - Current
 
 - 🏫 Becker College 🪦 (2018 - 2021) and WPI (2021 - 2024)
-- 📃 Bachelor's Degree in Computer Science (After May 2024)
-- 📃 Bachelor's Degree in Interactive Media (Tech) (After May 2024)
+- 📃 Bachelor's Degree in Computer Science
+- 📃 Bachelor's Degree in Interactive Media (Tech)
 
 - 🏆Verizon & CGI U Social Innovation Challenge
 
