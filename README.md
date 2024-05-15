@@ -8,13 +8,11 @@
 
 - 🏆Verizon & CGI U Social Innovation Challenge
 
-- 👶Learning Godot! (11/10/23)
+- 👶Learning Godot!
 
 - My Repo's include...
-    - A lot of Unity Projects in various states
-      - Failed prototypes (real)
-      - Published on IOS/Google Play Store
-      - Senior Capstone
+  - Unity Projects
+  - Godot Projects
   - WPI CS classes (CS 4731, CS 4536 and CS 4341 (Final))
   - Varvbot 😍 (Small Discord Bot)
-  - One ReactJS repo
+  - ReactJS
