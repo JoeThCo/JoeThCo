@@ -9,9 +9,8 @@
 - 🏆Verizon & CGI U Social Innovation Challenge
 
 - My Repo's include...
-  - Unity Projects
-  - Godot Projects
+  - Unity
+  - Godot
   - WPI CS classes (CS 4731, CS 4536 and CS 4341 (Final))
   - Varvbot 😍 (Small Discord Bot)
   - ReactJS
-  - Godot
