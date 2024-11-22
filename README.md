@@ -2,7 +2,7 @@
 - 📫 Reach me @ josephthco@gmail.com
 - 💼 Software Devolper @ ICONICS Jan 2024 - Current
 
-- 🏫 Becker College 🪦 (2018 - 2021) and WPI (2021 - 2024)
+- 🏫 Becker College 🪦 (2018 - 2021) and WPI (2021 - 2023)
 - 📃 Bachelor's Degree in Computer Science
 - 📃 Bachelor's Degree in Interactive Media (Tech)
 
