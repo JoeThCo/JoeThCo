@@ -1,5 +1,4 @@
 - 👋 Hello! I'm Joe Colley (@JoeThCo) (He/Him)
-- 📫 Reach me @ josephthco@gmail.com
 - 💼 Software Devolper @ ICONICS Jan 2024 - Current
 
 - 🏫 Becker College 🪦 (2018 - 2021) and WPI (2021 - 2023)
